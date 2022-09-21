@@ -39,3 +39,12 @@ C:\opencv-3.4.5\build\x64\vc15\lib
 추가 종속성
 
 opencv_world345d.lib
+
+## HW_1
+<img src="https://github.com/bert13069598/OPENCV3.4.5_seminar/blob/master/Lena.png">
+<img src="https://github.com/bert13069598/OPENCV3.4.5_seminar/blob/master/HW_1_result.png">
+
+## HW_2
+<img src="https://github.com/bert13069598/OPENCV3.4.5_seminar/blob/master/HW_2_2_foreground.png">
+<img src="https://github.com/bert13069598/OPENCV3.4.5_seminar/blob/master/HW_2_2_background.png">
+<img src="https://github.com/bert13069598/OPENCV3.4.5_seminar/blob/master/HW_2_2_result.png">
